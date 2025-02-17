@@ -1,1 +1,2 @@
 # Teacher-Student-Feedback-System
+A Student Feedback Management System (SFMS) is an integrated digital solution designed to streamline the collection, management, and analysis of student feedback. Its main purpose is to enhance the quality of education by capturing students' opinions on various aspects of their learning experience. This system allows institutions to gather valuable insights, identify areas for improvement, and create an environment that supports continuous academic growth.
