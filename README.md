@@ -1,2 +1,1 @@
-# Student-Feedback-Management-System
-A Student Feedback Management System (SFMS) is a software tool designed to collect, analyze, and manage feedback from students regarding various aspects of their educational experience. It aims to enhance the quality of education by allowing institutions to gather insights directly from students on factors such as teaching quality, course content, facilities, and overall satisfaction.
+# Teacher-Student-Feedback-System
